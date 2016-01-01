@@ -1,4 +1,4 @@
-# Patrón de Diseño "Singleton" en Java
+# Lectura y Escritura de ficheros en Python
 
 Para más información sobre este proyecto visitar el siguiente enlace:
 http://jarroba.com/lectura-y-escritura-de-ficheros-en-python-con-ejemplos/
